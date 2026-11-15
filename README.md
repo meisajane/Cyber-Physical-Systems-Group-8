@@ -1,5 +1,8 @@
 # Sand Table
 
+<img width="3188" height="2391" alt="IMG_9302" src="https://github.com/user-attachments/assets/de278af9-057a-44c7-8a2b-ae63183694d2" />
+
+
 Group 8, Cyber Physical Systems Submission
 Qiaoyun Fang, Zhuxuan Ji, Meisa Jane Siridumrongphun
 
