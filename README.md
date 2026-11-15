@@ -12,11 +12,13 @@ Qiaoyun Fang, Zhuxuan Ji, Meisa Jane Siridumrongphun
 
 # Overview
 
-This project reimagines tactile interactions as a 
+Project Sandprint explores a social-tactile interaction with technology with a drawing experienced shaped by the human touch. Inspired by lovers' names written in sand, prehistoric hand stencils and the transience of a hand shake.
+
+The sculpure measures 400mm x 400mm x 183mm and is constructed simply with frosted clear Perspex to draw all attention to the pattern drawn on the black sand. The project mechanically implements a CoreXY plotter for accurate drawings using coordinates and is simple to build.
 
 # Bill of Materials
 
-Everything needed to build and run the Bonding Sand Table: a CoreXY magnet plotter based on [ZenXY v3 by V1 Engineering](https://docs.v1e.com/zenxy/) (CC BY-SA 4.0), adapted to the course kit's 28BYJ-48 motors and an ESP32, with six pressure sensors as input.
+Everything needed to build and run Project Sandprint: a CoreXY magnet plotter based on [ZenXY v3 by V1 Engineering](https://docs.v1e.com/zenxy/) (CC BY-SA 4.0), adapted to the course kit's 28BYJ-48 motors and an ESP32, with six pressure sensors as input.
 
 Quantities are what the finished machine uses. Spares are listed only where we kept them on purpose.
 
