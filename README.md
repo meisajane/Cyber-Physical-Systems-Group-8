@@ -218,7 +218,7 @@ motors ◄── M x y ◄──── pattern 1 to 5 ◄── OSC 12000 ──
 
 ### `zenxy_esp32.ino`
 
-The code in this file was written mostly by Anthropic's Claude (Claude Opus 5.5 and Claude Fable 5.1). The pressure-recording routine is adapted from code written by [teammate name].
+The code in this file was written mostly by Anthropic's Claude (Claude Opus 5.5 and Claude Fable 5.1). The pressure-recording routine is adapted from code written by Qiaoyun Fang.
 
 - **Serial command protocol:** Reads one text command per line at 115200 baud (`M x y`, `H`, `F`, `P`, `?`, `S`) and replies `ok` when each one finishes, so Processing never overfills the serial buffer.
 - **CoreXY kinematics:** Converts each target point in millimetres into absolute step counts for the two motors (A = (x + y) × 127.4, B = (x − y) × 127.4). Absolute targets stop rounding errors from building up over thousands of segments.
